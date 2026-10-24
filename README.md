@@ -23,7 +23,7 @@ Before that I worked on a SaaS performance management system at Techbee Solution
 
 ## Featured projects
 
-- **[BloodBank](https://github.com/ha4mim/BloodBank)**: blood bank management system built on .NET 8 Web API, Razor and Blazor with Clean and Layered Architecture, Redis caching, EF Core and Dapper.
+- **[BloodBank](https://github.com/ha4mim/BloodBank)**: blood bank management system built with C#, ASP.NET MVC and SQL Server.
 - **[POS](https://github.com/ha4mim/POS)**: point-of-sale system with a 5-layer architecture in ASP.NET Web Forms, with authentication and role-based, granular permissions.
 
 ## Education and languages
